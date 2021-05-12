@@ -11,13 +11,13 @@ ObjTp=Symbol
 Name=Control_Matrix_DM 1 Matrix.ced
 Hint=DM 1 Matrix (Smart Object ID=10)
 Code=9
-SGControlType=Dynamic Button List Horizontal
+SGControlType=Dynamic Button List Vertical
 SGControlName=DM 1 Matrix
-GUID=4B846031-334E-463E-A45F-AFE1163259A6
+GUID=BFB8D8E1-2C15-4612-B64D-8F8E543D1AB6
 SmplCName=Control_Matrix_DM 1 Matrix.ced
 SMWRev=4.02.20
 Expand=expand_random
-HelpID=10111
+HelpID=10112
 Render=8
 ;Define the number of inputs, outputs and parameters
 MinVariableInputs=6016

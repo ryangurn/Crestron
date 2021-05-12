@@ -11,13 +11,13 @@ ObjTp=Symbol
 Name=Control_Matrix_Display 2 Matrix.ced
 Hint=Display 2 Matrix (Smart Object ID=9)
 Code=8
-SGControlType=Dynamic Button List Horizontal
+SGControlType=Dynamic Button List Vertical
 SGControlName=Display 2 Matrix
-GUID=5C6BC502-0791-4CF4-95D5-65C570882F5F
+GUID=FF179698-D149-4855-B1CA-AA5314171006
 SmplCName=Control_Matrix_Display 2 Matrix.ced
 SMWRev=4.02.20
 Expand=expand_random
-HelpID=10111
+HelpID=10112
 Render=8
 ;Define the number of inputs, outputs and parameters
 MinVariableInputs=6016
