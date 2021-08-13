@@ -3,5 +3,6 @@
    <Network Type="Ethernet" Id="07">
       <Device Model="TSW-750" DeviceId="0C"/>
       <Device Model="TSW-750" DeviceId="0D"/>
+      <Device Model="TSW-750" DeviceId="0E"/>
    </Network>
 </Device>
