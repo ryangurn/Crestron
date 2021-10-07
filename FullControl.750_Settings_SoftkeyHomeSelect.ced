@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_Settings_SoftkeyHomeSelect.ced
 Hint=SoftkeyHomeSelect (Smart Object ID=1003)
-Code=30
+Code=23
 SGControlType=Dynamic Button List Vertical
 SGControlName=SoftkeyHomeSelect
 GUID=3AC84564-AF6B-499C-9725-A051DF3D03C7
@@ -428,14 +428,14 @@ OutputList3SigType4014=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=30
-CedH=30
+Pp1=23
+CedH=23
 SmartObjId=1003d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=30
+H=23
 Tp=1
 HD=TRUE
 DV=1003d
@@ -448,7 +448,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=30
+H=23
 Name=FullControl.750_Settings_SoftkeyHomeSelect.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

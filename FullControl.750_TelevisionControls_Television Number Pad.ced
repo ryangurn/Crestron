@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_TelevisionControls_Television Number Pad.ced
 Hint=Television Number Pad (Smart Object ID=601)
-Code=23
+Code=16
 SGControlType=Simple Keypad
 SGControlName=Television Number Pad
 GUID=32FBC2D0-C693-4DC5-AB1C-D743AD61AE07
@@ -84,14 +84,14 @@ OutputSigType12=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=23
-CedH=23
+Pp1=16
+CedH=16
 SmartObjId=601d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=23
+H=16
 Tp=1
 HD=TRUE
 DV=601d
@@ -104,7 +104,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=23
+H=16
 Name=FullControl.750_TelevisionControls_Television Number Pad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

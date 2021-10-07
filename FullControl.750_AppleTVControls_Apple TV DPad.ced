@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_AppleTVControls_Apple TV DPad.ced
 Hint=Apple TV DPad (Smart Object ID=501)
-Code=22
+Code=15
 SGControlType=DPad
 SGControlName=Apple TV DPad
 GUID=FB70D202-30A9-4F05-A7CF-39957DC3A0ED
@@ -56,14 +56,14 @@ OutputSigType5=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=22
-CedH=22
+Pp1=15
+CedH=15
 SmartObjId=501d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=22
+H=15
 Tp=1
 HD=TRUE
 DV=501d
@@ -76,7 +76,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=22
+H=15
 Name=FullControl.750_AppleTVControls_Apple TV DPad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

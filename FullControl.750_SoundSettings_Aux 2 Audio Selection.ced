@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_SoundSettings_Aux 2 Audio Selection.ced
 Hint=Aux 2 Audio Selection (Smart Object ID=303)
-Code=21
+Code=14
 SGControlType=Dynamic Button List Vertical
 SGControlName=Aux 2 Audio Selection
 GUID=2528E53D-97DE-423D-84F0-0B439BD9E525
@@ -380,14 +380,14 @@ OutputList3SigType4014=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=21
-CedH=21
+Pp1=14
+CedH=14
 SmartObjId=303d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=21
+H=14
 Tp=1
 HD=TRUE
 DV=303d
@@ -400,7 +400,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=21
+H=14
 Name=FullControl.750_SoundSettings_Aux 2 Audio Selection.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

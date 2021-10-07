@@ -10,10 +10,10 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_VolumeSettings_Program Audio Controls.ced
 Hint=Program Audio Controls (Smart Object ID=401)
-Code=8
+Code=24
 SGControlType=Vertical Tab Button
 SGControlName=Program Audio Controls
-GUID=266D1D1F-0BA7-4621-AC5B-66DFA80F9E5E
+GUID=9C1AC541-955B-4FF3-A4C9-11688D6CCD7A
 SmplCName=FullControl.750_VolumeSettings_Program Audio Controls.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -60,14 +60,14 @@ OutputSigType6=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=8
-CedH=8
+Pp1=24
+CedH=24
 SmartObjId=401d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=8
+H=24
 Tp=1
 HD=TRUE
 DV=401d
@@ -80,7 +80,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=8
+H=24
 Name=FullControl.750_VolumeSettings_Program Audio Controls.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

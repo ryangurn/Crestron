@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_Settings_SoftkeyPowerSelect.ced
 Hint=SoftkeyPowerSelect (Smart Object ID=1002)
-Code=29
+Code=22
 SGControlType=Dynamic Button List Vertical
 SGControlName=SoftkeyPowerSelect
 GUID=4E5733F2-F4D4-4D03-A81B-61243B2D5336
@@ -284,14 +284,14 @@ OutputList3SigType4014=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=29
-CedH=29
+Pp1=22
+CedH=22
 SmartObjId=1002d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=29
+H=22
 Tp=1
 HD=TRUE
 DV=1002d
@@ -304,7 +304,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=29
+H=22
 Name=FullControl.750_Settings_SoftkeyPowerSelect.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

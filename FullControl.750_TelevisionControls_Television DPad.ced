@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_TelevisionControls_Television DPad.ced
 Hint=Television DPad (Smart Object ID=602)
-Code=24
+Code=17
 SGControlType=DPad
 SGControlName=Television DPad
 GUID=85F4375A-0E75-4000-B06F-191F70C39913
@@ -56,14 +56,14 @@ OutputSigType5=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=24
-CedH=24
+Pp1=17
+CedH=17
 SmartObjId=602d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=24
+H=17
 Tp=1
 HD=TRUE
 DV=602d
@@ -76,7 +76,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=24
+H=17
 Name=FullControl.750_TelevisionControls_Television DPad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

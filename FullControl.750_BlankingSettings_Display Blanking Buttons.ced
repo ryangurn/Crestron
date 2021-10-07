@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=FullControl.750_BlankingSettings_Display Blanking Buttons.ced
 Hint=Display Blanking Buttons (Smart Object ID=701)
-Code=25
+Code=18
 SGControlType=Horizontal Tab Button
 SGControlName=Display Blanking Buttons
 GUID=648019DA-61B7-4B71-B30E-90A728EF1BEF
@@ -68,14 +68,14 @@ OutputSigType8=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=25
-CedH=25
+Pp1=18
+CedH=18
 SmartObjId=701d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=25
+H=18
 Tp=1
 HD=TRUE
 DV=701d
@@ -88,7 +88,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=25
+H=18
 Name=FullControl.750_BlankingSettings_Display Blanking Buttons.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
